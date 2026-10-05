@@ -1,4 +1,4 @@
-## Sujets à traiter au laboratoire
+## Sujets à traiter au lab
 
 1. Qu’est-ce qu’un lab ?
 2. Agents (OpenCode, Antigravity, etc.)
